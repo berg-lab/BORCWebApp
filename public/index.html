@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Web site created using create-react-app" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+</head>
+<body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div> <!-- React root div -->
+    <script src="script.js"></script>
+    <main>
+        <section id="temperature-control">
+            <h2>Temperature Control</h2>
+            <input type="range" id="temp-slider" min="0" max="30" value="22">
+            <span id="temp-display">22°C</span>
+        </section>
+    </main>
+</body>
+</html>

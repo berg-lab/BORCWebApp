@@ -1,0 +1,146 @@
+[
+  {
+    "TIF ID": "T-072",
+    "TIF NAME": "24th/Michigan",
+    "REPORTING CATEGORY": "Revenues",
+    "DESCRIPTION": "Property tax"
+  },
+  {
+    "TIF ID": "T-072",
+    "TIF NAME": "24th/Michigan",
+    "REPORTING CATEGORY": "Expenditures",
+    "DESCRIPTION": "Sales tax"
+  },
+  {
+    "TIF ID": "T-072",
+    "TIF NAME": "24th/Michigan",
+    "REPORTING CATEGORY": "Fund balance",
+    "DESCRIPTION": "End of year"
+  },
+  {
+    "TIF ID": "T-071",
+    "TIF NAME": "21th/Michigan",
+    "REPORTING CATEGORY": "Revenues",
+    "DESCRIPTION": "Property tax"
+  },
+  {
+    "TIF ID": "T-071",
+    "TIF NAME": "21th/Michigan",
+    "REPORTING CATEGORY": "Expenditures",
+    "DESCRIPTION": "Sales tax"
+  },
+  {
+    "TIF ID": "T-071",
+    "TIF NAME": "21th/Michigan",
+    "REPORTING CATEGORY": "Fund balance",
+    "DESCRIPTION": "End of year"
+  },
+  {
+    "TIF ID": "T-070",
+    "TIF NAME": "22th/Michigan",
+    "REPORTING CATEGORY": "Revenues",
+    "DESCRIPTION": "Property tax"
+  },
+  {
+    "TIF ID": "T-070",
+    "TIF NAME": "22th/Michigan",
+    "REPORTING CATEGORY": "Expenditures",
+    "DESCRIPTION": "Sales tax"
+  },
+  {
+    "TIF ID": "T-070",
+    "TIF NAME": "22th/Michigan",
+    "REPORTING CATEGORY": "Fund balance",
+    "DESCRIPTION": "End of year"
+  },
+  {
+    "TIF ID": "T-074",
+    "TIF NAME": "23th/Michigan",
+    "REPORTING CATEGORY": "Revenues",
+    "DESCRIPTION": "Property tax"
+  },
+  {
+    "TIF ID": "T-074",
+    "TIF NAME": "23th/Michigan",
+    "REPORTING CATEGORY": "Expenditures",
+    "DESCRIPTION": "Sales tax"
+  },
+  {
+    "TIF ID": "T-074",
+    "TIF NAME": "23th/Michigan",
+    "REPORTING CATEGORY": "Fund balance",
+    "DESCRIPTION": "End of year"
+  },
+  {
+    "TIF ID": "T-075",
+    "TIF NAME": "25th/Michigan",
+    "REPORTING CATEGORY": "Revenues",
+    "DESCRIPTION": "Property tax"
+  },
+  {
+    "TIF ID": "T-075",
+    "TIF NAME": "25th/Michigan",
+    "REPORTING CATEGORY": "Expenditures",
+    "DESCRIPTION": "Sales tax"
+  },
+  {
+    "TIF ID": "T-075",
+    "TIF NAME": "26th/Michigan",
+    "REPORTING CATEGORY": "Fund balance",
+    "DESCRIPTION": "End of year"
+  },
+  {
+    "TIF ID": "T-076",
+    "TIF NAME": "26th/Michigan",
+    "REPORTING CATEGORY": "Revenues",
+    "DESCRIPTION": "Property tax"
+  },
+  {
+    "TIF ID": "T-076",
+    "TIF NAME": "27th/Michigan",
+    "REPORTING CATEGORY": "Expenditures",
+    "DESCRIPTION": "Sales tax"
+  },
+  {
+    "TIF ID": "T-076",
+    "TIF NAME": "27th/Michigan",
+    "REPORTING CATEGORY": "Fund balance",
+    "DESCRIPTION": "End of year"
+  },
+  {
+    "TIF ID": "T-077",
+    "TIF NAME": "28th/Michigan",
+    "REPORTING CATEGORY": "Revenues",
+    "DESCRIPTION": "Property tax"
+  },
+  {
+    "TIF ID": "T-077",
+    "TIF NAME": "28th/Michigan",
+    "REPORTING CATEGORY": "Expenditures",
+    "DESCRIPTION": "Sales tax"
+  },
+  {
+    "TIF ID": "T-077",
+    "TIF NAME": "29th/Michigan",
+    "REPORTING CATEGORY": "Fund balance",
+    "DESCRIPTION": "End of year"
+  },
+  {
+    "TIF ID": "T-078",
+    "TIF NAME": "29th/Michigan",
+    "REPORTING CATEGORY": "Revenues",
+    "DESCRIPTION": "Property tax"
+  },
+  {
+    "TIF ID": "T-078",
+    "TIF NAME": "30th/Michigan",
+    "REPORTING CATEGORY": "Expenditures",
+    "DESCRIPTION": "Sales tax"
+  },
+  {
+    "TIF ID": "T-078",
+    "TIF NAME": "31th/Michigan",
+    "REPORTING CATEGORY": "Fund balance",
+    "DESCRIPTION": "End of year"
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "Class": "2nd",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0
+  },
+  {
+    "Class": "2nd",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0
+  },
+  {
+    "Class": "3rd",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 1
+  },
+  {
+    "Class": "Crew",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0
+  },
+  {
+    "Class": "2nd",
+    "Gender": "Female",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0
+  },
+  {
+    "Class": "2nd",
+    "Gender": "Female",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0
+  },
+  {
+    "Class": "3rd",
+    "Gender": "Female",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 1
+  },
+  {
+    "Class": "Crew",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0
+  },
+  {
+    "Class": "1st",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 2
+  },
+  {
+    "Class": "2nd",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 3
+  },
+  {
+    "Class": "3rd",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 1
+  },
+  {
+    "Class": "Crew",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 2
+  },
+  {
+    
+    "Class": "3rd",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 4
+  },
+  {
+    
+    "Class": "2nd",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 1
+  },
+  {
+    
+    "Class": "3rd",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 3
+  },
+  {
+   
+    "Class": "3rd",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 3
+  },
+  {
+    
+    "Class": "1st",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 1
+  },
+  {
+    
+    "Class": "2nd",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 5
+  },
+  {
+    
+    "Class": "3rd",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 1
+  },
+  {
+    
+    "Class": "Crew",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 0
+  },
+  {
+    
+    "Class": "1st",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 1
+  },
+  {
+    
+    "Class": "2nd",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 3
+  },
+  {
+    
+    "Class": "3rd",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 2
+  },
+  {
+    
+    "Class": "Crew",
+    "Gender": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 0
+  },
+  {
+    
+    "Class": "1st",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 5
+  },
+  {
+    
+    "Class": "2nd",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 4
+  },
+  {
+    
+    "Class": "3rd",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 5
+  },
+  {
+    
+    "Class": "Crew",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 1
+  },
+  {
+    
+    "Class": "1st",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 4
+  },
+  {
+    
+    "Class": "2nd",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 5
+  },
+  {
+    
+    "Class": "3rd",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 3
+  },
+  {
+    
+    "Class": "Crew",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 2
+  },
+  {
+    
+    "Class": "Crew",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 1
+  },
+  {
+    
+    "Class": "1st",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 4
+  },
+  {
+    
+    "Class": "2nd",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 2
+  },
+  {
+    
+    "Class": "3rd",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 3
+  },
+  {
+    
+    "Class": "Crew",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 2
+  }
+]
