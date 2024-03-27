@@ -34,7 +34,7 @@ export default function Topbar() {
     <div className="topbar">
       <div className="topbarWrapper">
         <div className="topLeft">
-          <span className="logo">Radiator Controller Dashboard</span>
+          <span className="logo">Deployed Dashboard</span>
         </div>
         <div className="topRight">
           <Avatar {...stringAvatar('Arjun Yadapadithaya')} className="topAvatar"/>
