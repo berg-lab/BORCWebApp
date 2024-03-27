@@ -71,7 +71,7 @@ export default function Container() {
             </div>
         </section>
         <section id="schedule">
-            <h2>Scheduling</h2>
+            <h2>test vercel building</h2>
         </section>
         <section id="statistics">
             <h2>Statistics</h2>
