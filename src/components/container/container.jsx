@@ -62,7 +62,7 @@ export default function Container() {
           value={temperature}
           onChange={handleSliderChange}
         />
-        <span id="temp-display">{`${temperature}°C`}</span>
+        <span id="temp-display">{`${temperature}°F`}</span>
       </section>
         <section id="battery-status">
             <h2>Battery Status</h2>

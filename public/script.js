@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Check if temperature slider and display exist before attaching event listener
   if (tempSlider && tempDisplay) {
     tempSlider.addEventListener('input', function () {
-      tempDisplay.innerHTML = this.value + "°C";
+      tempDisplay.innerHTML = this.value + "°F";
       // Update the color of the temperature based on the value
       var tempValue = parseInt(this.value, 10);
       if(tempValue < 15) {
